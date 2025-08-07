@@ -18,15 +18,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="huzaifa_karim-linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@huzaifa_karim" target="blank" style="margin-right: 10px;">
+  <a href="https://www.youtube.com/@huzaifa_karim" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
     alt="huzaifa-karim-youtube" height="30" width="40" />
   </a>
-  <a href="https://www.reddit.com/u/Huzaifa_karim" target="blank" style="margin-right: 10px;">
+  <a href="https://www.reddit.com/u/Huzaifa_karim" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"
     alt="huzaifa-karim-reddit" height="30" width="40" />
   </a>
