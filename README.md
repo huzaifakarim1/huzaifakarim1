@@ -4,13 +4,13 @@
 - 🚀 I’m currently learning **Node.js, Django, and advanced backend architecture with authentication, testing, and deployment pipelines**
 
 - 🧠 My projects are available at:
+
   - [huzaifa-frontend](https://github.com/huzaifa-frontend)
   - [huzaifa-fullstack](https://github.com/huzaifa-fullstack)
   - [huzaifa-gamedev](https://github.com/huzaifa-gamedev)
   - [huzaifa-vault](https://github.com/huzaifa-vault)
 
 - 💬 Ask me about: **JavaScript, TypeScript, Python, C#, React.js, Tailwind CSS, Shadcn/UI, Zustand, Node.js, Express.js, Django, Flask, MongoDB, Firebase, Unity**
-
 
 - 📫 How to reach me: **karimhuzaifa590@gmail.com**
 
@@ -150,4 +150,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=tokyonight" />
 </p>
-
