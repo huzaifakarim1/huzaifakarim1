@@ -20,15 +20,15 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="huzaifa_karim-linkedin" height="30" width="40" />
+alt="huzaifa_karim-linkedin" height="40" width="40" />
 </a>
 <a href="https://www.youtube.com/@huzaifa_karim" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-alt="huzaifa-karim-youtube" height="30" width="40" />
+alt="huzaifa-karim-youtube" height="40" width="40" />
 </a>
 <a href="https://www.reddit.com/u/Huzaifa_karim" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"
-  alt="huzaifa-karim-reddit" height="30" width="40" />
+  alt="huzaifa-karim-reddit" height="40" width="40" />
 </a>
 </p>
 
@@ -150,9 +150,9 @@ alt="huzaifa-karim-youtube" height="30" width="40" />
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=auto" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=auto" />
 </p>
