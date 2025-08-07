@@ -82,9 +82,15 @@ alt="huzaifa-karim-youtube" height="30" width="40" />
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-  </a>
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg"
+    alt="Express.js"
+    width="40"
+    height="40"
+    style="filter: invert(1);"
+  />
+</a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
