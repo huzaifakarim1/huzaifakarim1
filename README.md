@@ -26,7 +26,7 @@
 alt="huzaifa-karim-youtube" height="30" width="40" />
 </a>
 <a href="https://www.reddit.com/u/Huzaifa_karim" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reddit/reddit-original.svg" alt="Reddit" width="40" height="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="Reddit" width="30" height="40" />
 </a>
 </p>
 
