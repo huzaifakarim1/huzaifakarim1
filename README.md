@@ -150,11 +150,11 @@ alt="huzaifa-karim-youtube" height="30" width="40" />
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
 </p>
 
 <p align="left">
