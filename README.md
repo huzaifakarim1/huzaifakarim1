@@ -12,21 +12,21 @@
 
 - 💬 Ask me about: **JavaScript, TypeScript, Python, C#, React.js, Tailwind CSS, Shadcn/UI, Zustand, Node.js, Express.js, Django, Flask, MongoDB, Firebase, Unity**
 
-- 📫 How to reach me: **karimhuzaifa590@gmail.com**
+- 📫 How to reach me: <a href="mailto:karimhuzaifa590@gmail.com">karimhuzaifa590@gmail.com</a>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="blank">
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 alt="huzaifa_karim-linkedin" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/@huzaifa_karim" target="blank">
+<a href="https://www.youtube.com/@huzaifa_karim" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 alt="huzaifa-karim-youtube" height="30" width="40" />
 </a>
-<a href="https://www.reddit.com/u/Huzaifa_karim" target="blank">
+<a href="https://www.reddit.com/u/Huzaifa_karim" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"
   alt="huzaifa-karim-reddit" height="30" width="40" />
 </a>
@@ -67,7 +67,7 @@ alt="huzaifa-karim-youtube" height="30" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/black/nextjs-black.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
