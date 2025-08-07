@@ -156,3 +156,11 @@ alt="huzaifa-karim-youtube" height="30" width="40" />
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=auto" />
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=huzaifakarim1&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username" />
+
+<img src="https://ghchart.rshah.org/huzaifakarim1" />
