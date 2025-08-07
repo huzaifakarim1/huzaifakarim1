@@ -20,8 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-huzaifa_karim-linkedin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@huzaifa_karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="huzaifa-karim-youtube" height="30" width="40" /></a>
-<a href="https://www.reddit.com/u/Huzaifa_karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="huzaifa-karim-reddit" height="30" width="40" />
-</a>
+<a href="https://www.reddit.com/u/Huzaifa_karim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reddit.svg" alt="huzaifa-karim-reddit" height="30" width="40" /></a>
 </p>
 
 ---
@@ -66,9 +65,6 @@
   </a>
 
   <!-- Animation & UI -->
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Framer Motion" width="40" height="40"/>
-  </a>
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
@@ -136,11 +132,22 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jsonwebtokens.svg" alt="JWT" width="40" height="40"/>
+</a>
+<a href="https://www.passportjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/passport.svg" alt="Passport.js" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">Github Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifakarim1&show_icons=true&locale=en&layout=compact" alt="huzaifakarim1" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=tokyonight" />
+</p>
 
