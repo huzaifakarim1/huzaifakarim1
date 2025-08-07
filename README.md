@@ -18,10 +18,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-huzaifa-karim-590k)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@huzaifa_karim)
-[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit)](https://www.reddit.com/u/Huzaifa_karim)
-
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="huzaifa_karim-linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@huzaifa_karim" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+    alt="huzaifa-karim-youtube" height="30" width="40" />
+  </a>
+  <a href="https://www.reddit.com/u/Huzaifa_karim" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"
+    alt="huzaifa-karim-reddit" height="30" width="40" />
+  </a>
 </p>
 
 
