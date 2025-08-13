@@ -78,12 +78,6 @@
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/530426/shadcnui.svg" alt="Shadcn UI" width="40" height="40"/>
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/chakraui/chakraui-icon.svg" alt="Chakra UI" width="40" height="40"/>
-  </a>
 
   <!-- Backend -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
