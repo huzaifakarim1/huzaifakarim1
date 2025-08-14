@@ -1,0 +1,30 @@
+name: Update GitHub Stats and Languages
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download GitHub Stats image
+        run: |
+          curl -o github-stats.png "https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&include_all_commits=true&count_private=true&theme=radical&token=${{ secrets.GH_TOKEN }}"
+
+      - name: Download Top Languages image
+        run: |
+          curl -o github-top-langs.png "https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }}"
+
+      - name: Commit updated images
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-stats.png github-top-langs.png
+          git commit -m "Update GitHub stats and top languages" || echo "No changes to commit"
+          git push
