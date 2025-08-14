@@ -2,29 +2,43 @@ name: Update GitHub Stats and Languages
 
 on:
   schedule:
-    - cron: '0 * * * *'  # runs every hour
-  workflow_dispatch:      # allows manual trigger
+    - cron: '0 */12 * * *'   # every 12 hours
+  workflow_dispatch:          # allow manual run
+
+# Let Actions push to the repo
+permissions:
+  contents: write
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # use GITHUB_TOKEN for push
 
-      - name: Download GitHub Stats image
-        run: |
-          curl -o github-stats.png "https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&include_all_commits=true&count_private=true&theme=radical&token=${{ secrets.GH_TOKEN }}"
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
 
-      - name: Download Top Languages image
+      - name: Fetch Top Languages (uses your secret PAT)
         run: |
-          curl -o github-top-langs.png "https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }}"
+          curl -sS -L -o assets/top-langs.svg \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }}"
 
-      - name: Commit updated images
+      - name: Fetch GitHub Stats (uses your secret PAT)
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-stats.png github-top-langs.png
-          git commit -m "Update GitHub stats and top languages" || echo "No changes to commit"
-          git push
+          curl -sS -L -o assets/stats.svg \
+          "https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&include_all_commits=true&count_private=true&theme=radical&token=${{ secrets.GH_TOKEN }}"
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/top-langs.svg assets/stats.svg
+            git commit -m "chore: update stats images"
+            git push
+          else
+            echo "No changes to commit."
+          fi
