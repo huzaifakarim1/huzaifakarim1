@@ -151,13 +151,13 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark" />
+  <!-- Top Languages image (will be auto-updated by workflow) -->
+  <img src="github-top-langs.png" alt="Top Languages" />
 </p>
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
+  <!-- GitHub Stats image (will be auto-updated by workflow) -->
+  <img src="github-stats.png" alt="GitHub Stats" />
 </p>
-
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
 </p>
