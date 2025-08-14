@@ -151,12 +151,10 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <!-- Top Languages image (will be auto-updated by workflow) -->
-  <img src="github-top-langs.png" alt="Top Languages" />
+  <img src="assets/top-langs.svg" alt="Top Languages" />
 </p>
 <p align="left">
-  <!-- GitHub Stats image (will be auto-updated by workflow) -->
-  <img src="github-stats.png" alt="GitHub Stats" />
+  <img src="assets/stats.svg" alt="GitHub Stats" />
 </p>
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
