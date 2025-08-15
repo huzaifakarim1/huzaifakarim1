@@ -151,7 +151,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img src="assets/top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
