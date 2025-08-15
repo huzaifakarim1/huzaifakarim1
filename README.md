@@ -151,7 +151,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&langs_count=10&theme=radical&hide_border=true&access_token=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" alt="Top Languages" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
