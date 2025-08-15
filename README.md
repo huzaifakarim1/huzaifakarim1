@@ -154,7 +154,7 @@
   <img src="assets/top-langs.svg" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="assets/stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
 </p>
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
