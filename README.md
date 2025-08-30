@@ -150,9 +150,9 @@
 ---
 
 <h3 align="left">Github Stats:</h3>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark" />
-</p>
+</p> -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
 </p>
