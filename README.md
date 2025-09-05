@@ -47,9 +47,10 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
+
 
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -73,9 +74,9 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="Zustand" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- UI Libraries -->
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
@@ -89,9 +90,9 @@
   </a>
 
   <!-- Animation & 3D -->
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
     <img src="https://www.framer.com/images/favicons/128.png" alt="Framer Motion" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
   </a>
@@ -142,9 +143,9 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img src="https://render.com/favicon.ico" alt="Render" width="40" height="40" />
-  </a>
+  </a> -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
@@ -153,12 +154,12 @@
   </a>
 
   <!-- Form Libraries -->
-  <a href="https://formik.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://formik.org/" target="_blank" rel="noreferrer">
     <img src="https://formik.org/images/logos/favicon.png" alt="Formik" width="40" height="40"/>
   </a>
   <a href="https://github.com/jquense/yup" target="_blank" rel="noreferrer">
     <img src="https://github.com/jquense/yup/raw/master/logo.png" alt="Yup" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Testing -->
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
@@ -169,9 +170,6 @@
   </a>
 
   <!-- Game Development -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   </a>
