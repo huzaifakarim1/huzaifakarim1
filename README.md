@@ -10,7 +10,7 @@
   - [huzaifa-gamedev](https://github.com/huzaifa-gamedev)
   - [huzaifa-vault](https://github.com/huzaifa-vault)
 
-- 💬 Ask me about: **JavaScript, TypeScript, Python, C#, React.js, Tailwind CSS, Shadcn/UI, Zustand, Node.js, Express.js, Django, Flask, MongoDB, Firebase, Unity**
+- 💬 Ask me about: **JavaScript, TypeScript, Python, C#, React.js, Next.js, Tailwind CSS, ShadCN UI, Material UI, Chakra UI, Redux, Zustand, Node.js, Express.js, Django, Flask, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Docker, Three.js, Framer Motion, Unity, RESTful APIs**
 
 - 📫 How to reach me: <a href="mailto:karimhuzaifa590@gmail.com">karimhuzaifa590@gmail.com</a>
 
@@ -47,8 +47,8 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 
   <!-- Frontend -->
@@ -59,10 +59,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -73,10 +73,27 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="Zustand" width="40" height="40"/>
+  </a>
 
-  <!-- Animation & UI -->
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <!-- UI Libraries -->
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  </a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png" alt="Chakra UI" width="40" height="40"/>
+  </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN UI" width="40" height="40"/>
+  </a>
+
+  <!-- Animation & 3D -->
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+    <img src="https://www.framer.com/images/favicons/128.png" alt="Framer Motion" width="40" height="40"/>
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
   </a>
 
   <!-- Backend -->
@@ -84,13 +101,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40" />
   </a>
 
   <!-- Databases -->
@@ -99,6 +116,17 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <!-- Cloud & DevOps -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 
   <!-- Tools -->
@@ -112,38 +140,45 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://render.com/favicon.ico" alt="Render" width="40" height="40" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="40" height="40"/>
+  </a>
+
+  <!-- Form Libraries -->
+  <a href="https://formik.org/" target="_blank" rel="noreferrer">
+    <img src="https://formik.org/images/logos/favicon.png" alt="Formik" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/jquense/yup" target="_blank" rel="noreferrer">
+    <img src="https://github.com/jquense/yup/raw/master/logo.png" alt="Yup" width="40" height="40"/>
   </a>
 
   <!-- Testing -->
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
   </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
+  </a>
 
-  <!-- Extra Frameworks -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
+  <!-- Game Development -->
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   </a>
+
+  <!-- Authentication -->
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jsonwebtokens.svg" alt="JWT" width="40" height="40" style="filter: invert(1);" />
-  </a>
-  <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/passport.svg" alt="Passport.js" width="40" height="40" style="filter: invert(1);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jsonwebtokens.svg" alt="JWT" width="40" height="40" style="filter: invert(1);" />
   </a>
 </p>
 
