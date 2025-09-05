@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa Karim</h1>
 <h3 align="center">I’m a full-stack developer with a passion for game development, focused on building scalable applications with seamless user experiences and clean architecture.</h3>
 
-- 🚀 I’m currently learning **Node.js, Django, and advanced backend architecture with authentication, testing, and deployment pipelines**
+- 🚀 I'm currently advancing my skills in **Next.js full-stack development, database optimization, AWS cloud infrastructure, Docker, and CI/CD pipelines**
 
 - 🧠 My projects are available at:
 
