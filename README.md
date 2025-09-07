@@ -246,5 +246,5 @@
 
 <!-- Footer -->
 <p align="center">
-<img src="assets/DotLoader.gif">
+<img src="assets/LoadingBloob.gif">
 </p>
