@@ -245,4 +245,4 @@
 
 
 <!-- Footer -->
-<img src="assets/cosmos2.gif">
+<img src="assets/cosmos.gif">
