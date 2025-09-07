@@ -243,8 +243,7 @@
   </a>
 </p>
 
-
 <!-- Footer -->
 <p align="center">
-<img src="assets/LoadingHand.gif">
+<img src="assets/DotLoader.gif">
 </p>
