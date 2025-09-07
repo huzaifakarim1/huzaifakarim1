@@ -235,11 +235,14 @@
   <a href="https://www.reddit.com/u/Huzaifa_karim" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
+  <a href="https://www.quora.com/profile/Huzaifa-Karim-2" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
+  </a>
+  <a href="https://discordapp.com/users/919178742641852466" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
-<!-- Footer -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer" />
-</p> -->
 
-<img src="assets/Wave.gif">
+<!-- Footer -->
+<img src="assets/cosmos2.gif">
