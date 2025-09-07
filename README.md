@@ -238,7 +238,8 @@
 </p>
 
 <!-- Footer -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer" />
-</p>
+</p> -->
 
+<img src="assets/Wave.gif">
