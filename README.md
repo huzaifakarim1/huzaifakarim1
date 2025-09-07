@@ -16,25 +16,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="huzaifa_karim-linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@huzaifa_karim" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-    alt="huzaifa-karim-youtube" height="30" width="40" />
-  </a>
-  <a href="https://www.reddit.com/u/Huzaifa_karim" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"
-    alt="huzaifa-karim-reddit" height="30" width="40" />
-  </a>
-</p>
-
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages -->
@@ -240,3 +221,24 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
 </p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@huzaifa_karim" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.reddit.com/u/Huzaifa_karim" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer" />
+</p>
+
