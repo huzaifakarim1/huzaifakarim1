@@ -245,4 +245,6 @@
 
 
 <!-- Footer -->
+<p align="center">
 <img src="assets/cosmos.gif">
+</p>
