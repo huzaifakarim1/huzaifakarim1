@@ -10,7 +10,7 @@
   - [huzaifa-gamedev](https://github.com/huzaifa-gamedev)
   - [huzaifa-vault](https://github.com/huzaifa-vault)
 
-- 💬 Ask me about: **JavaScript, TypeScript, Python, C#, React.js, Next.js, Tailwind CSS, ShadCN UI, Material UI, Chakra UI, Redux, Zustand, Node.js, Express.js, Django, Flask, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Docker, Three.js, Framer Motion, Unity, RESTful APIs**
+- 💬 Ask me about: **JavaScript, TypeScript, Python, C#, React.js, Next.js, Tailwind CSS, ShadCN UI, Material UI, Chakra UI, Redux, Zustand, React Hook Form, Node.js, Express.js, Django, Flask, MongoDB, MySQL, PostgreSQL, Supabase, Firebase, Clerk, AWS, Docker, Three.js, Framer Motion, Unity, OpenAI APIs, Sentry, RESTful APIs**
 
 - 📫 How to reach me: <a href="mailto:karimhuzaifa590@gmail.com">karimhuzaifa590@gmail.com</a>
 
@@ -32,7 +32,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 
-
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -51,6 +50,9 @@
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
@@ -81,16 +83,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
   </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png" alt="Chakra UI" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png" alt="Chakra UI" height="40"/>
+</a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN UI" width="40" height="40"/>
   </a>
+  <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="40" height="40"/>
+  </a>
 
   <!-- Animation & 3D -->
-  <!-- <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://www.framer.com/images/favicons/128.png" alt="Framer Motion" width="40" height="40"/>
-  </a> -->
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="Framer Motion" width="40" height="40"/>
+  </a>
+  <a href="https://lottiefiles.com/" target="_blank" rel="noreferrer">
+    <img src="https://lottiefiles.com/favicon.ico" alt="Lottie" width="40" height="40"/>
+  </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
   </a>
@@ -127,6 +135,23 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  </a>
+
+  <!-- Form Libraries -->
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="React Hook Form" width="40" height="40"/>
+  </a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="Zod" width="40" height="40"/>
+  </a>
+  <!-- <a href="https://formik.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/28631504?s=200&v=4" alt="Formik" width="40" height="40"/>
+  </a> -->
+  <!-- <a href="https://github.com/jquense/yup" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jquense/yup/master/logo.png" alt="Yup" width="40" height="40" style="background-color: white; border-radius: 4px;"/>
+  </a> -->
 
   <!-- Cloud & DevOps -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -148,9 +173,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
 
-  <!-- Operating Systems -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <!-- Authentication & Monitoring -->
+  <a href="https://clerk.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" alt="Clerk" width="40" height="40"/>
+  </a>
+  <a href="https://sentry.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" alt="Sentry" width="40" height="40"/>
   </a>
 
   <!-- Tools -->
@@ -166,9 +194,9 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
   </a>
-  <!-- <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://render.com/favicon.ico" alt="Render" width="40" height="40" />
-  </a> -->
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" width="40" height="40" />
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
@@ -181,14 +209,6 @@
   <a href="https://eslint.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
   </a>
-
-  <!-- Form Libraries -->
-  <!-- <a href="https://formik.org/" target="_blank" rel="noreferrer">
-    <img src="https://formik.org/images/logos/favicon.png" alt="Formik" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/jquense/yup" target="_blank" rel="noreferrer">
-    <img src="https://github.com/jquense/yup/raw/master/logo.png" alt="Yup" width="40" height="40"/>
-  </a> -->
 
   <!-- Testing -->
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
@@ -207,19 +227,6 @@
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jsonwebtokens.svg" alt="JWT" width="40" height="40" style="filter: invert(1);" />
   </a>
-</p>
-
----
-
-<h3 align="left">Github Stats:</h3>
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark" />
-</p> -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
 </p>
 
 ---
