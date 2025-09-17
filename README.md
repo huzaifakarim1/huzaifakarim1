@@ -83,7 +83,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
   </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png" alt="Chakra UI" height="40"/>
+  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png" alt="Chakra UI" width="40" height="40"/>
 </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN UI" width="40" height="40"/>
