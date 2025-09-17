@@ -231,6 +231,17 @@
 
 ---
 
+<h3 align="left">Github Stats:</h3>
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakarim1&layout=compact&theme=dark" />
+</p> -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifakarim1&show_icons=true&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="_blank">
