@@ -242,6 +242,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifakarim1&theme=dark" />
 </p>
 
+
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifakarim1&theme=onedark&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifakarim1&theme=dracula&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifakarim1&theme=chalk&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifakarim1&theme=monokai&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-huzaifa-karim-590k" target="_blank">
