@@ -10,7 +10,7 @@
   - [huzaifa-gamedev](https://github.com/huzaifa-gamedev)
   - [huzaifa-vault](https://github.com/huzaifa-vault)
 
-- 💬 Ask me about: **JavaScript, TypeScript, Python, C#, React.js, Next.js, Tailwind CSS, ShadCN UI, Material UI, Chakra UI, Redux, Zustand, React Hook Form, Node.js, Express.js, Django, Flask, MongoDB, MySQL, PostgreSQL, Supabase, Firebase, Clerk, AWS, Docker, Three.js, Framer Motion, Unity, OpenAI APIs, Sentry, RESTful APIs**
+- 💬 Ask me about: **JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, ShadCN UI, Zustand, Node.js, Express.js, MongoDB, Supabase, Firebase, Clerk, AWS, Docker, Three.js, Framer Motion, OpenAI APIs, RESTful APIs**
 
 - 📫 How to reach me: <a href="mailto:karimhuzaifa590@gmail.com">karimhuzaifa590@gmail.com</a>
 
