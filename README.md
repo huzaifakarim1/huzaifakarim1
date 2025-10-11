@@ -51,9 +51,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
   </a>
@@ -180,6 +180,20 @@
   <a href="https://sentry.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" alt="Sentry" width="40" height="40"/>
   </a>
+
+  <!-- AI & Machine Learning -->
+   <!-- <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI" width="40" height="40"/>
+    </a> -->
+   <!-- <a href="https://elevenlabs.io/" target="_blank" rel="noreferrer">
+    <img src="https://11labs-nonprd-15f22c1d.s3.eu-west-3.amazonaws.com/a2ea339b-8b5e-41bb-b706-24eda8a4c9e3/elevenlabs-symbol.svg" alt="ElevenLabs" width="40" height="40"/>
+    </a> -->
+   <a href="https://deepgram.com/" target="_blank" rel="noreferrer">
+    <img src="https://deepgram.com/favicon.ico" alt="Deepgram" width="40" height="40"/>
+    </a>
+   <!-- <a href="https://vapi.ai/" target="_blank" rel="noreferrer">
+    <img src="https://vapi.ai/favicon.ico" alt="Vapi AI" width="40" height="40"/>
+    </a> -->
 
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
