@@ -87,28 +87,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <!-- <td align="center" width="60"> React Native - COMMENTED OUT
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
       </a>
     </td> -->
-    <td align="center" width="60">
-      <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-      </a>
-    </td>
     <!-- <td align="center" width="60"> Zustand - COMMENTED OUT
       <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="Zustand" width="40" height="40"/>
@@ -120,6 +103,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <!-- Build Tools & Bundlers Continued -->
     <td align="center" width="60">
       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
