@@ -137,8 +137,6 @@
         <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <!-- Animation & 3D -->
     <td align="center" width="60">
       <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
@@ -182,6 +180,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <!-- Databases -->
     <td align="center" width="60">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
