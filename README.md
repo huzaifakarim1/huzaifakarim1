@@ -193,8 +193,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="60">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -257,8 +255,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="60">
       <a href="https://nginx.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
@@ -270,6 +266,12 @@
         <img src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" alt="Clerk" width="40" height="40"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    
+  </tr>
+  <tr>
+    <!-- Authentication & Monitoring Continued -->
     <td align="center" width="60">
       <a href="https://sentry.io/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" alt="Sentry" width="40" height="40"/>
